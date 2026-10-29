@@ -1,0 +1,15 @@
+{
+    "currentList": [],
+    "graphics": {
+        "German": {
+            "svg": "/api/graphics/German/default.svg",
+            "png": "/api/graphics/German/default.png",
+            "sha512": "9da405bdcb1eed8b532515eb68b6e23e0e976ca1266bf3f87424b42eb4fa50c794cf30ecc7cb7a99b5e3bd72d2778f9a7630eea5b15694bd79834b6157d9f1bf"
+        },
+        "English": {
+            "svg": "/api/graphics/English/default.svg",
+            "png": "/api/graphics/English/default.png",
+            "sha512": "eaaf322051afb4eed83b6f28daee811cf0234608fd46cb71b0a0da672b12630cb58fa84da286f924e65eded2abc66c8468bfbfacb780ea4a01183544d8fd8d41"
+        }
+    }
+}
